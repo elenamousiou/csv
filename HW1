@@ -1,0 +1,5 @@
+git init
+git add partA.py
+git commit -m "Add partA.py"
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git push -u origin main
